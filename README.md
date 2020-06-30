@@ -1,2 +1,2 @@
-# Lambdation
-A framework for building AWS Lambda function with .Net Core
+# Funcletium
+A framework for building Serverless Functions with .Net Core

@@ -2,13 +2,13 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B3136185-77EF-41D7-A605-D8969D1AD2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdation", "src\Lambdation\Lambdation.csproj", "{AE448235-C070-42A2-8AC8-B53585925400}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcletium", "src\Funcletium\Funcletium.csproj", "{AE448235-C070-42A2-8AC8-B53585925400}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EDD0A03D-63E2-4EFF-A00A-5EE42A767024}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{4C498F73-BD8E-4B1F-B9AC-980358C6F0CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdation.Tests", "test\Lambdation.Tests\Lambdation.Tests.csproj", "{721CBCB7-97A9-49D0-BA62-6D1ECED0238B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcletium.Tests", "test\Funcletium.Tests\Funcletium.Tests.csproj", "{721CBCB7-97A9-49D0-BA62-6D1ECED0238B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoFunction.Tests", "samples\EchoFunction\test\EchoFunction.Tests\EchoFunction.Tests.csproj", "{E1EB4B33-6C70-450B-9CAB-DC015F08E930}"
 EndProject
